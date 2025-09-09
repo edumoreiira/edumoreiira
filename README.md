@@ -4,7 +4,7 @@ Sou desenvolvedor especializado em **Angular**, focado em construir aplicações
 
 ## 🧭 Sobre
 
-Entrego SPAs robustas, integradas a backends e otimizadas para manutenção e escalabilidade. Também tenho interesse em criar interfaces elegantes e microanimações sutis que melhoram a experiência do usuário, sem perder o foco na engenharia e na qualidade do código.
+Entrego SPAs leves, integradas a backends e otimizadas para manutenção e escalabilidade. Também tenho interesse em criar interfaces elegantes e microanimações sutis que melhoram a experiência do usuário, sem perder o foco na engenharia e na qualidade do código.
 
 
 ## 🛠 Tecnologias
