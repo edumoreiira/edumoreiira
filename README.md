@@ -19,7 +19,6 @@ Entrego SPAs robustas, integradas a backends e otimizadas para manutenção e es
 
 ## 💻 GitHub Stats
 
-![edumoreiira's Stats](https://github-readme-stats.vercel.app/api?username=edumoreiira&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=edumoreiira&theme=gotham&hide_border=true)
 
 ## 📫 Contato
