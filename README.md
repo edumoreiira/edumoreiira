@@ -1,11 +1,7 @@
-# Olá, meu nome é Eduardo!
-Sou desenvolvedor especializado em **Angular**, focado em construir aplicações front-end escaláveis e bem estruturadas. Trabalho com código limpo, arquitetura baseada em componentes e priorizo performance e acessibilidade para entregar soluções fáceis de manter.
+## Olá! 👋
+Meu nome é Eduardo Moreira, estudo desenvolvimento web desde 2023. Sou desenvolvedor com foco em **Angular**, expandindo meus conhecimentos em back-end utilizando **Spring Boot**.
 
-
-## 🧭 Sobre
-
-Entrego SPAs leves, integradas a backends e otimizadas para manutenção e escalabilidade. Também tenho interesse em criar interfaces elegantes e microanimações sutis que melhoram a experiência do usuário, sem perder o foco na engenharia e na qualidade do código.
-
+**🌐 [Portifólio](https://edumoreira-portfolio.vercel.app/pt-br/home/developer)**
 
 ## 🛠 Tecnologias
 
@@ -21,9 +17,11 @@ Entrego SPAs leves, integradas a backends e otimizadas para manutenção e escal
 
 ![](https://nirzak-streak-stats.vercel.app/?user=edumoreiira&theme=gotham&hide_border=true)
 
-## 📫 Contato
-
-* LinkedIn: [`Eduardo Moreira`](https://www.linkedin.com/in/eduardo-moreira-475b76368/)
-* Email: [`edumoreira.dev@gmail.com`](mailto:edumoreira.dev@gmail.com)
 ---
-### 🌐 Acesse meu [Portifólio](https://edumoreira-portfolio.vercel.app/pt-br/home).
+### 🌍 Onde me Encontrar
+
+<div>
+  <a href="https://edumoreira-portfolio.vercel.app/pt-br/home/developer" target="_blank"><img src="https://img.shields.io/badge/Website-20B2AA?style=for-the-badge" target="_blank"></a>
+  <a href="mailto:edumoreira.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardo-moreira-475b76368/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
